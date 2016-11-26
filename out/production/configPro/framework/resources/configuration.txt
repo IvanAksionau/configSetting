@@ -1,0 +1,3 @@
+Language=RU
+BuffSize=1024
+CountOffUsers=1
